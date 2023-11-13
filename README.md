@@ -1,7 +1,7 @@
-# Redhat-openshift   [[ IN WORK....]]
+# Redhat-CodeShift-Hackathon
 
 
-# Image Background Manipulation with OpenVINO™ and U²-Net
+# Advanced Vision : Background Transformation, Masking, and Captioning with U²-Net and OpenVINO™
 ---
 ## Overview
 
@@ -11,15 +11,26 @@ This Jupyter Notebook project leverages the power of OpenVINO™ and U²-Net to 
 
 1. **Image Masking:**
    - The notebook provides the capability to create masks for images, highlighting specific regions of interest.
+   - ![Frame 1 (1)](https://github.com/autumn-absconds/Redhat-openshift/assets/65112908/f4df6207-478e-4718-8b50-7fe50c4e6d8a)
+
 
 2. **Background Removal:**
    - Utilizing U²-Net and OpenVINO™, the notebook performs image segmentation to remove the background, isolating the main subject.
+   - ![wepik--20231113085605JNYl](https://github.com/autumn-absconds/Redhat-openshift/assets/65112908/77c1eabd-fa05-4eed-81ea-5bf8523c0efa)
+
 
 3. **Background Replacement:**
    - Users can seamlessly replace the removed background with a new one, offering creative possibilities for image enhancement.
+   - ![wepik--202311130856328mrU](https://github.com/autumn-absconds/Redhat-openshift/assets/65112908/cdd4bb1f-f96b-4b0f-9970-43d8df8afd07)
+
 
 4. **Automatic Caption Generation:**
    - The notebook incorporates the ability to generate captions for processed images, adding context and descriptive elements.
+  
+5. **Background_Blending:**
+   - Users can blend the background with foreground image.
+   - ![wepik--202311130857073BWX](https://github.com/autumn-absconds/Redhat-openshift/assets/65112908/4191fe44-0887-4bb7-9015-9442610eec72)
+
 
 ## Project Structure
 
