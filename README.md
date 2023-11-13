@@ -7,6 +7,9 @@
 
 This Jupyter Notebook project leverages the power of OpenVINO™ and U²-Net to perform advanced image background manipulation. The primary functionalities of this notebook include image masking, background removal, background replacement, and automatic caption generation.
 
+## Diagram View oF Model :
+https://excalidraw.com/#json=lFaRKR996j30qVJocqYv1,6fGVtl43EZKThoahfaKOvA
+
 ## Features
 
 1. **Image Masking:**
